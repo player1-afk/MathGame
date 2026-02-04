@@ -12,12 +12,6 @@ namespace MathGame
         {
             var player = new Player.Player("Alice");
             Console.WriteLine(player.Name);
-
-            //var ui = new ConsoleUI();
-            //var player = new Player();
-            //var generator = new MathTaskGenerator);
-
-            //var game = new GameEngine(ui, player, generator);
         }
     }
 }
